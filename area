@@ -1,0 +1,12 @@
+b = int(input("enter base of traingle: "))
+h = int(input("enter height of traingle: "))
+t_a = 1/2 *(b*h)
+print(t_a)
+
+s = int(input("Enter side of square:"))
+s_a = s*s
+print(s_a)
+b = int(input("enter breadth of rectangle: "))
+l = int(input("enter length of rectangle: "))
+r_a = b*l
+print(r_a)
